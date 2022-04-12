@@ -10,7 +10,7 @@
     "node": "^4.6.1"
   },
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^17.9.0",
     "http-errors": "^2.0.0",
     "mysql": "^2.18.1"
   },
